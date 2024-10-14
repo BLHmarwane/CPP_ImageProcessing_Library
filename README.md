@@ -39,16 +39,6 @@ In this version, advanced techniques are introduced:
 
 ## How to Compile
 
-Each version contains a **Makefile** to automate the compilation process. To compile and run the project, follow these steps:
-
-1. Navigate to the folder of the version you want to compile (e.g., `TER_lib_V1.0/`).
-2. Run the following command to compile the project:
-   ```bash
-   make
-   ```
-
-## How to Compile
-
 Each version contains a **Makefile** that automates the compilation process. Navigate to the specific version folder (e.g., `TER_lib_V1.0/`) and run:
 
 ```bash
